@@ -1,27 +1,12 @@
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# Jihye's Todo List 
+> 리액트, 리액트 네이티브 공부를 위한 지혜의 "Todo List"
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
 
 ![](../header.png)
-
-## 설치 방법
-
-OS X & 리눅스:
-
-```sh
-npm install my-crazy-module --save
-```
-
-윈도우:
-
-```sh
-edit autoexec.bat
-```
 
 ## 사용 예제
 
