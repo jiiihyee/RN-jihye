@@ -17,6 +17,10 @@ class App extends Component {
     this.submitTodo = this.submitTodo.bind(this);
     this.toggleComplete = this.toggleComplete.bind(this); //toggleComplte
     this.deleteTodo = this.deleteTodo.bind(this);
+    this.setType = this.setType.bind(this);
+  }
+  setType(type) {
+    this.setState({type});
   }
   inputChange(inputValue) {
     console.log('Input Value : ', inputValue);
